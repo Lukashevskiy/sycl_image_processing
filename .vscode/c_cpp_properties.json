@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/${HOME}/computecpp-ce-2.11.0/*",
+                "/opt/CMake-hdf5-1.14.0/HDF_Group/HDF5/1.14.0/include/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang-15",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
