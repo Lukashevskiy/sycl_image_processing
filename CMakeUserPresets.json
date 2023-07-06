@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/dmitriyl/Documents/sycl_image_processing/build/CMakePresets.json"
+    ]
+}

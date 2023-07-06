@@ -1,0 +1,1 @@
+. "/home/dmitriyl/Documents/sycl_image_processing/build/conanrunenv-release-x86_64.sh"

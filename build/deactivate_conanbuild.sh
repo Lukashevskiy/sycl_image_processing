@@ -1,0 +1,1 @@
+. "/home/dmitriyl/Documents/sycl_image_processing/build/deactivate_conanbuildenv-release-x86_64.sh"
